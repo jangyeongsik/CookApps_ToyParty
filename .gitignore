@@ -1,0 +1,7 @@
+/CookApps_ToyParty/Library
+/CookApps_ToyParty/Temp
+/CookApps_ToyParty/Logs
+*.csproj
+*.sln
+*.vsconfig
+/CookApps_ToyParty/UserSettings
